@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/behavioral-command-pattern/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/behavioral-command-pattern/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/behavioral-iterator-pattern/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/behavioral-iterator-pattern/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/behavioral-strategy-pattern/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/behavioral-strategy-pattern/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/creational-abstract-factory-pattern/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/creational-abstract-factory-pattern/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/creational-builder-pattern/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/creational-builder-pattern/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/creational-factory-method-pattern/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/creational-factory-method-pattern/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/creational-prototype-pattern/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/creational-prototype-pattern/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/creational-singleton-pattern/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/creational-singleton-pattern/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/structural-adapter-pattern/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/structural-adapter-pattern/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/structural-bridge-pattern/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/structural-bridge-pattern/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/structural-composite-pattern/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/structural-composite-pattern/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/structural-facade-pattern/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/structural-facade-pattern/src/main/resources" charset="UTF-8" />
+  </component>
+</project>
